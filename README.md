@@ -1,6 +1,6 @@
 # mem1_electron
-Creating a desktop electron app from Rust Webassembly Virtual Dom memory game.
-Things are changing very fast. This is the situation as in 2019-04-05.
+Creating a desktop electron app from Rust Webassembly Virtual Dom memory game.  
+Things are changing very fast. This is the situation as in 2019-04-05.  
 Learning to use Dodrio virtual DOM on a simple memory game for kids.  
 The images are funny cartoon characters from the alphabet.  
 The cards grid is only 4x4.  
