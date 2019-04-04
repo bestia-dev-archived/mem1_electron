@@ -1,12 +1,13 @@
 # mem1_electron
 Creating a desktop electron app from Rust Webassembly Virtual Dom memory game.  
 Things are changing very fast. This is the situation as in 2019-04-05.  
+
+The source code of the original app is here:  
+[https://github.com/LucianoBestia/mem1](https://github.com/LucianoBestia/mem1)  
 Learning to use Dodrio virtual DOM on a simple memory game for kids.  
 The images are funny cartoon characters from the alphabet.  
 The cards grid is only 4x4.  
 
-The source code of the original app is here:  
-[https://github.com/LucianoBestia/mem1](https://github.com/LucianoBestia/mem1)
 
 #How to install Electron on Windows
 1. install nodejs 11 the latest version. It will install also npm.   
