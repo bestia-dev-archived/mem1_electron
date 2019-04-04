@@ -1,6 +1,6 @@
 # mem1_electron
 Creating a desktop electron app from Rust Webassembly Virtual Dom memory game.  
-Things are changing very fast. This is the situation as in 2019-04-05.  
+Things are changing very fast. This is the situation as at 2019-04-05.  
 
 The source code of the original app is here:  
 [https://github.com/LucianoBestia/mem1](https://github.com/LucianoBestia/mem1)  
@@ -9,30 +9,30 @@ The images are funny cartoon characters from the alphabet.
 The cards grid is only 4x4.  
 
 
-#How to install Electron on Windows
-1. install nodejs 11 the latest version. It will install also npm.   
-It didn't work for me with the version 10.    
+# How to install Electron on Windows
+1. install Nodejs 11 - the latest version. It will also install npm - the packet manager.   
+It didn't work correctly for me with Nodejs version 10. I don't know why.    
 [https://nodejs.org/en/](https://nodejs.org/en/)  
 
-2. Install electron
-
+2. Install electron  
 ```
 npm i -D electron@latest
 ```
-3. Clone mem1_electron example. It will create a new folder.
+3. Clone mem1_electron code example. It will create a new folder.  
 ```
 git clone https://github.com/LucianoBestia/mem1_electron
 ```
 4. move to the new folder
 ```
-cd electron-quick-start
+cd mem1_electron
 ```
-
-5. Install all needed referenced libraries
+5. Install all needed referenced libraries  
 ```
 npm install
 ```
-6. build and start the new electron application
+6. build and start the new electron application  
 ```
 npm start
 ```
+
+I hope it will work for you as it did for me.
