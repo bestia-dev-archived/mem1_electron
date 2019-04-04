@@ -9,6 +9,7 @@ Learning to use Dodrio virtual DOM on a simple memory game for kids.
 The images are funny cartoon characters from the alphabet.  
 The cards grid is only 4x4.  
 
+![snap01](https://user-images.githubusercontent.com/31509965/55587238-181e8200-5755-11e9-88eb-f8fb62be581e.png)
 
 # How to install Electron on Windows
 1. install Nodejs 11 - the latest version. It will also install npm - the packet manager.   
