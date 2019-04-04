@@ -53,3 +53,9 @@ Download it, unzip it and execute the file mem1_electron.exe.
 
 
 I hope it will work for you as it did for me.
+# Programming references
+[https://electronjs.org/](https://electronjs.org/)  
+[https://nodejs.org/en/](https://nodejs.org/en/)  
+[https://github.com/electron-userland/electron-packager](https://github.com/electron-userland/electron-packager)  
+
+
