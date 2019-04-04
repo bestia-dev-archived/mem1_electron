@@ -36,12 +36,12 @@ npm install
 ```
 npm start
 ```
-# Create a package for xcopy distribution
+# Create a package for distribution
 7. install electron-packager
 ```
 npm install electron-packager -g
 ```
-8. create folder with all files for distribution,
+8. create a folder with all files for distribution.
 You can then zip it and publish it. 
 ```
 electron-packager .
