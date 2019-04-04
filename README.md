@@ -18,9 +18,9 @@ It didn't work for me with the version 10.
 ```
 npm i -D electron@latest
 ```
-3. Clone the simplest example. It will create a new folder.
+3. Clone mem1_electron example. It will create a new folder.
 ```
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/LucianoBestia/mem1_electron
 ```
 4. move to the new folder
 ```
