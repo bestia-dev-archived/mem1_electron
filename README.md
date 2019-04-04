@@ -1,5 +1,5 @@
 # mem1_electron
-Creating a desktop electron app from Rust Webassembly Virtual Dom memory game.  
+Learning how to create desktop electron app from Rust Webassembly Virtual Dom memory game.  
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.
 Things are changing very fast. This is the situation as at 2019-04-05.  
 
