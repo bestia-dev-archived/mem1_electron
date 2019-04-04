@@ -1,0 +1,14 @@
+{
+  "name": "mem1",
+  "collaborators": [
+    "Luciano Furlan <Luciano.Bestia@gmail.com>"
+  ],
+  "version": "1.0.2",
+  "files": [
+    "mem1_bg.wasm",
+    "mem1.js",
+    "mem1.d.ts"
+  ],
+  "browser": "mem1.js",
+  "types": "mem1.d.ts"
+}
