@@ -47,4 +47,9 @@ You can then zip it and publish it.
 electron-packager .
 ```
 
+I published the zip file in GitHub Release:  
+[https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1](https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1)  
+Download it, unzip it and execute the file mem1_electron.exe.  
+
+
 I hope it will work for you as it did for me.
