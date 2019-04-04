@@ -1,0 +1,22 @@
+{
+  "name": "mem1-electron",
+  "version": "1.0.0",
+  "description": "Electron application with Rust Wasm Virtual Dom",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/LucianoBestia/mem1_electron",
+  "keywords": [
+    "Electron",
+    "Rust",
+    "Wasm",
+    "VirtualDom",
+    "Dodrio"
+  ],
+  "author": "LucianoBestia",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.1.3"
+  }
+}
