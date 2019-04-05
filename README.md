@@ -4,7 +4,7 @@ Learning how to create desktop electron app from Rust Webassembly Virtual Dom me
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.  
 
 The source code of the original app is here:  
-[https://github.com/LucianoBestia/mem1](https://github.com/LucianoBestia/mem1)  
+https://github.com/LucianoBestia/mem1  
 Learning to use Dodrio virtual DOM on a simple memory game for kids.  
 The images are funny cartoon characters from the alphabet.  
 The cards grid is only 4x4.  
@@ -14,7 +14,7 @@ The cards grid is only 4x4.
 # How to install Electron on Windows
 1. install Nodejs 11 - the latest version. It will also install npm - the packet manager.   
 It didn't work correctly for me with Nodejs version 10. I don't know why.    
-[https://nodejs.org/en/](https://nodejs.org/en/)  
+https://nodejs.org/en/  
 
 2. Install electron  
 ```
@@ -50,14 +50,14 @@ electron-packager .
 ```
 
 I published the zip file in GitHub Release:  
-[https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1](https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1)  
+https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1  
 Download it, unzip it and execute the file mem1_electron.exe.  
 
 
 I hope it will work for you as it did for me.
 # Programming references
-[https://electronjs.org/](https://electronjs.org/)  
-[https://nodejs.org/en/](https://nodejs.org/en/)  
-[https://github.com/electron-userland/electron-packager](https://github.com/electron-userland/electron-packager)  
+https://electronjs.org/  
+https://nodejs.org/en/  
+https://github.com/electron-userland/electron-packager  
 
 
