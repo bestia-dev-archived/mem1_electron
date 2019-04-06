@@ -1,6 +1,6 @@
 Things are changing very fast. This is the situation as at 2019-04-05.  
 # mem1_electron
-Learning how to create desktop electron app from Rust Webassembly Virtual Dom memory game.  
+Learning how to create desktop electron app from Rust Wasm/Webassembly Virtual Dom Dodrio memory game.  
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.  
 
 The source code of the original app is here:  
