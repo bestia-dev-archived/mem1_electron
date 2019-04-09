@@ -6,12 +6,12 @@ The images are funny cartoon characters from the alphabet.
 The cards grid is only 4x4.  
 
 The source code of the original app is here:  
-[https://github.com/LucianoBestia/mem1](https://github.com/LucianoBestia/mem1)
+https://github.com/LucianoBestia/mem1  
 
 #How to install Electron on Windows
 1. install nodejs 11 the latest version. It will install also npm.   
 It didn't work for me with the version 10.    
-[https://nodejs.org/en/](https://nodejs.org/en/)  
+https://nodejs.org/en/  
 
 2. Install electron
 
