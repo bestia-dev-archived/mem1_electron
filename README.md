@@ -1,6 +1,6 @@
 Things are changing very fast. This is the situation as at 2019-04-05.  
 # mem1_electron
-Learning how to create desktop electron app from Rust Wasm/Webassembly with Dodrio Virtual Dom memory game.  
+Learning how to create desktop electron app from Rust Wasm/WebAssembly with Dodrio Virtual Dom memory game.  
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.  
 
 The source code of the original app is here:  
@@ -13,7 +13,7 @@ The source code of the original app is here:
 https://github.com/LucianoBestia/mem1  
 
 #How to install Electron on Windows
-1. install nodejs 11 the latest version. It will install also npm.   
+1. install NodeJS 11 the latest version. It will install also npm.   
 It didn't work for me with the version 10.    
 https://nodejs.org/en/  
 ![snap01](https://user-images.githubusercontent.com/31509965/55587238-181e8200-5755-11e9-88eb-f8fb62be581e.png)
