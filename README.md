@@ -3,6 +3,14 @@ Things are changing very fast. This is the situation as at 2019-04-05.
 Learning how to create desktop electron app from Rust Wasm/WebAssembly with Dodrio Virtual Dom memory game.  
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.  
 
+## warning
+
+This version of electron uses a problematic minimst version. I don't have intention to upgrade the dependencies. This is just a learning project.
+CVE-2020-7598 high severity
+Vulnerable versions: >= 1.0.0, < 1.2.3   Patched version: 1.2.3
+minimist before 1.2.2 could be tricked into adding or modifying properties of Object.prototype using a "constructor" or "proto" payload.
+
+
 The source code of the original app is here:  
 https://github.com/LucianoBestia/mem1  
 Learning to use Dodrio virtual DOM on a simple memory game for kids.  
