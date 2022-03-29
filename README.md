@@ -1,7 +1,7 @@
 # mem1_electron
 
 **Learning how to create desktop electron app from Rust Wasm/WebAssembly**  
-***version: 1.0  date: 2019-04-05 author: [Dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/mem1_electron)***  
+***version: 1.0  date: 2019-04-05 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/mem1_electron)***  
 
 Based on Dodrio Virtual Dom memory game mem1.  
 Electron is Cross Platform - compatible with Mac, Windows, and Linux.  
@@ -14,13 +14,13 @@ Vulnerable versions: >= 1.0.0, < 1.2.3   Patched version: 1.2.3
 minimist before 1.2.2 could be tricked into adding or modifying properties of Object.prototype using a "constructor" or "proto" payload.
 
 The source code of the original app is here:  
-<https://github.com/LucianoBestia/mem1>  
+<https://github.com/bestia-dev/mem1>  
 Learning to use Dodrio virtual DOM on a simple memory game for kids.  
 The images are funny cartoon characters from the alphabet.  
 The cards grid is only 4x4.  
 
 The source code of the original app is here:  
-<https://github.com/LucianoBestia/mem1>  
+<https://github.com/bestia-dev/mem1>  
 
 ## How to install Electron on Windows
 
@@ -44,7 +44,7 @@ npm i -D electron@latest
 3\. Clone mem1_electron code example. It will create a new folder.  
 
 ```bash
-git clone https://github.com/LucianoBestia/mem1_electron
+git clone https://github.com/bestia-dev/mem1_electron
 ```
 
 4\. move to the new folder
@@ -81,7 +81,7 @@ electron-packager .
 ```
 
 I published the zip file in GitHub Release:  
-<https://github.com/LucianoBestia/mem1_electron/releases/tag/ver1>  
+<https://github.com/bestia-dev/mem1_electron/releases/tag/ver1>  
 Download it, unzip it and execute the file mem1_electron.exe.  
 
 I hope it will work for you as it did for me.

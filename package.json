@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/LucianoBestia/mem1_electron",
+  "repository": "https://github.com/bestia-dev/mem1_electron",
   "keywords": [
     "Electron",
     "Rust",
@@ -14,7 +14,7 @@
     "VirtualDom",
     "Dodrio"
   ],
-  "author": "LucianoBestia",
+  "author": "bestia-dev",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^7.2.4"
