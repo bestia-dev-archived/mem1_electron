@@ -3,6 +3,9 @@
 **Learning how to create desktop electron app from Rust Wasm/WebAssembly**  
 ***version: 1.0  date: 2019-04-05 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/mem1_electron)***  
 
+![status](https://img.shields.io/badge/obsolete-yellow) 
+![status](https://img.shields.io/badge/tutorial-yellow) 
+![status](https://img.shields.io/badge/archived-yellow) 
 ![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/414483538.svg)
 
 Hashtags: #rustlang #game #tutorial  
